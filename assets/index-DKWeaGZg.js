@@ -78,7 +78,7 @@ Total Duration: ${c-l}ms`),R.resolve({didRun:!0,sequenceNumbersCollected:r,targe
     <div style="display:flex;justify-content:flex-end">
       <div style="text-align:center;width:220px">
         <p style="margin:0 0 4px;font-size:11px;color:#1E293B">Mengetahui,</p>
-        <p style="margin:0 0 56px;font-size:11px;color:#1E293B">Kepala Lapas Banyuasin</p>
+        <p style="margin:0 0 56px;font-size:11px;color:#1E293B">Kepala Lapas Kelas IIA Banyuasin</p>
         <p style="margin:0 0 2px;font-size:11px;font-weight:700;color:#0D1F4E;border-top:1.5px solid #0D1F4E;padding-top:4px">Tetra Destorie</p>
         <p style="margin:0;font-size:10px;color:#0D1F4E">NIP. 197712192000121001</p>
       </div>
