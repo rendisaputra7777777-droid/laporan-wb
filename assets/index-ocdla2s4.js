@@ -89,7 +89,7 @@ Total Duration: ${c-l}ms`),R.resolve({didRun:!0,sequenceNumbersCollected:r,targe
   <div style="text-align:center;margin-bottom:18px;padding-bottom:12px;border-bottom:3px solid #0D1F4E">
     <p style="margin:0;font-size:10px;color:#64748B;letter-spacing:1px;text-transform:uppercase">Kementerian Imigrasi dan Pemasyarakatan RI</p>
     <h1 style="margin:3px 0 2px;font-size:20px;color:#0D1F4E;font-weight:900">SIWALA</h1>
-    <p style="margin:0;font-size:12px;color:#1A3A7A;font-weight:600">Sistem Informasi Pemantauan Pemasyarakatan</p>
+    <p style="margin:0;font-size:12px;color:#1A3A7A;font-weight:600">SISTEM PENGAWASAN LALU LINTAS WARGA BINAAN</p>
     <p style="margin:5px 0 0;font-size:11px;color:#64748B">Laporan Pengeluaran Warga Binaan &mdash; ${t} &nbsp;|&nbsp; Triwulan: ${i}</p>
   </div>`,f=`
   <div style="display:flex;gap:12px;margin-bottom:16px;justify-content:center">
@@ -180,7 +180,7 @@ Total Duration: ${c-l}ms`),R.resolve({didRun:!0,sequenceNumbersCollected:r,targe
   <div style="text-align:center;margin-bottom:18px;padding-bottom:12px;border-bottom:3px solid #0D1F4E">
     <p style="margin:0;font-size:10px;color:#64748B;letter-spacing:1px;text-transform:uppercase">Kementerian Imigrasi dan Pemasyarakatan RI</p>
     <h1 style="margin:3px 0 2px;font-size:20px;color:#0D1F4E;font-weight:900">SIWALA</h1>
-    <p style="margin:0;font-size:12px;color:#1A3A7A;font-weight:600">Sistem Informasi Pemantauan Pemasyarakatan</p>
+    <p style="margin:0;font-size:12px;color:#1A3A7A;font-weight:600">SISTEM PENGAWASAN LALU LINTAS WARGA BINAAN</p>
     <p style="margin:5px 0 0;font-size:11px;color:#64748B">Detail Laporan Pengeluaran Warga Binaan</p>
   </div>
   ${a}
